@@ -1,2 +1,2 @@
 # Food-Swamp-and-Obesity-in-the-US
-Using the comprehensive Food Environment Atlas data, I’ve built a robust predictive model to identify the invisible forces driving obesity rates across the U.S.
+In the heart of America, a silent crisis is unfolding, one that impacts millions and strains our healthcare systems: the epidemic of adult obesity. While often attributed to individual choices, my groundbreaking analysis dives deep into the environmental and socio-economic factors that inextricably link a county's food landscape to the health outcomes of its residents. Using the comprehensive Food Environment Atlas data, I’ve built a robust predictive model to identify the invisible forces driving obesity rates across the U.S.
